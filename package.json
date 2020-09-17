@@ -9,7 +9,6 @@
   },
   "author": "eomttt",
   "license": "ISC",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "peerDependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
