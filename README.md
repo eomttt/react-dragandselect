@@ -43,4 +43,4 @@ or
       })
     }
   </DragAndSelect>
-```# react-dragandselect
+```
