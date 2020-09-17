@@ -1,0 +1,42 @@
+{
+  "name": "react-dragandselect",
+  "version": "1.1.0",
+  "description": "React drag and select module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "cross-env NODE_ENV=production webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eomttt",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "babel-plugin-emotion": "^10.0.33",
+    "cross-env": "^7.0.2",
+    "css-loader": "^4.3.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "keywords": [
+    "react",
+    "drag and select",
+    "drag",
+    "select",
+    "box select",
+    "react drag and select",
+    "drag and selection",
+    "selection box"
+  ],
+  "dependencies": {
+    "@emotion/core": "^10.0.35",
+    "@emotion/styled": "^10.0.27"
+  }
+}
