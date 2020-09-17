@@ -1,6 +1,6 @@
 {
   "name": "react-dragandselect",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "React drag and select module",
   "main": "dist/index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   },
   "author": "eomttt",
   "license": "ISC",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "peerDependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
