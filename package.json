@@ -1,6 +1,6 @@
 {
   "name": "react-dragandselect",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "React drag and select module",
   "main": "dist/index.js",
   "scripts": {
@@ -43,5 +43,5 @@
     "type": "git",
     "url": "git+https://github.com/eomttt/react-dragandselect"
   },
-  "homepage": "https://eomttt.github.io/demo-module/drag-and-select"
+  "homepage": "https://eomttt.github.io/demo-module/#/drag-and-select"
 }

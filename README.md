@@ -45,6 +45,6 @@ or
   </DragAndSelect>
 ```
 
-## [Demo](https://eomttt.github.io/demo-module/drag-and-select)
+## [Demo](https://eomttt.github.io/demo-module/#/drag-and-select)
 
 [Demo code](https://github.com/eomttt/demo-module)
